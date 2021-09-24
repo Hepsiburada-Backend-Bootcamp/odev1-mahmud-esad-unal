@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Category": "Elektronik",
+    "Name": "970 Evo Plus 256GB SSD",
+    "Price": 720.99,
+    "Vendor": "Pqr Bilisim"
+  },
+  {
+    "Id": 2,
+    "Category": "Elektronik",
+    "Name": "15S-FQ2027NT Taşınabilir Bilgisayar",
+    "Price": 4999.0,
+    "Vendor": "XYZ Ihracat"
+  },
+  {
+    "Id": 3,
+    "Category": "Giyim",
+    "Name": "Erkek Gömlek",
+    "Price": 72.89,
+    "Vendor": "Pqr Bilisim"
+  },
+  {
+    "Id": 4,
+    "Category": "Giyim",
+    "Name": "Kadın Ayakkabı",
+    "Price": 121.15,
+    "Vendor": "ABC Kozmetik"
+  },
+  {
+    "Id": 5,
+    "Category": "Elektronik",
+    "Name": "Mi Robot Vacuum Mop Pro",
+    "Price": 2798.08,
+    "Vendor": "XYZ Ihracat"
+  },
+  {
+    "Id": 6,
+    "Category": "Elektronik",
+    "Name": "Electrolux EUFC8ANIMA Elektrikli Süpürge",
+    "Price": 1399.0,
+    "Vendor": "Pqr Bilisim"
+  },
+  {
+    "Id": 7,
+    "Category": "Giyim",
+    "Name": "Erkek Spor Ayakkabı",
+    "Price": 399.0,
+    "Vendor": "Pqr Bilisim"
+  },
+  {
+    "Id": 8,
+    "Category": "Kozmetik",
+    "Name": "Saç kremi",
+    "Price": 19.9,
+    "Vendor": "Pqr Bilisim"
+  },
+  {
+    "Id": 9,
+    "Category": "Elektronik",
+    "Name": "27VS4563 Gaming Monitör",
+    "Price": 1399.0,
+    "Vendor": "XYZ İhracat"
+  },
+  {
+    "Id": 10,
+    "Category": "Kozmetik",
+    "Name": "El kremi",
+    "Price": 1399.0,
+    "Vendor": "ABC Kozmetik"
+  }
+]
